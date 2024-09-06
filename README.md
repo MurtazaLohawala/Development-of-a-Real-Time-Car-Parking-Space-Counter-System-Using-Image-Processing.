@@ -1,0 +1,2 @@
+# Development-of-a-Real-Time-Car-Parking-Space-Counter-System-Using-Image-Processing.
+Developed a real-time car parking space counter system that utilizes image processing techniques to accurately detect and count available parking spaces. The system processes live video feeds from cameras installed in parking lots and applies advanced image processing algorithms to differentiate between occupied and vacant spots.
